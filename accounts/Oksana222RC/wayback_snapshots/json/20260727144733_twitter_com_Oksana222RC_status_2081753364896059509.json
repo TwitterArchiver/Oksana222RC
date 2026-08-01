@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081753358684356608"
+      ]
+    },
+    "author_id": "1926833599380115456",
+    "conversation_id": "2081753364896059509",
+    "created_at": "2026-07-27T14:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081753364896059509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/07GMTbSH4Y",
+          "end": 34,
+          "expanded_url": "https://x.com/Oksana222RC/status/2081753364896059509/photo/1",
+          "media_key": "3_2081753358684356608",
+          "start": 11,
+          "url": "https://t.co/07GMTbSH4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081753364896059509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "反馈。\n谢谢喜欢呀！ https://t.co/07GMTbSH4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2081753358684356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPfpm5bgAANeVH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081753358684356608"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "conversation_id": "2081753364896059509",
+        "created_at": "2026-07-27T14:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081753364896059509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07GMTbSH4Y",
+              "end": 34,
+              "expanded_url": "https://x.com/Oksana222RC/status/2081753364896059509/photo/1",
+              "media_key": "3_2081753358684356608",
+              "start": 11,
+              "url": "https://t.co/07GMTbSH4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081753364896059509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反馈。\n谢谢喜欢呀！ https://t.co/07GMTbSH4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "2077359435081769116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 12,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

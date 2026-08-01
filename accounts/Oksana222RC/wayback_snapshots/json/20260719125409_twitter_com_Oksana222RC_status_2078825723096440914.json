@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2078825723096440914",
+    "created_at": "2026-07-19T12:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078825723096440914"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078825723096440914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近在研究提取麦司卡林，昨天试了一下第一批实验品，爽飞了，杰森和兴子一致好评。等我再搓几匹就开始卖，敬请期待！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2078825723096440914",
+        "created_at": "2026-07-19T12:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078825723096440914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078825723096440914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在研究提取麦司卡林，昨天试了一下第一批实验品，爽飞了，杰森和兴子一致好评。等我再搓几匹就开始卖，敬请期待！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "1975236330604089493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 12,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

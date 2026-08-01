@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081683250431639552"
+      ]
+    },
+    "author_id": "1926833599380115456",
+    "conversation_id": "2081683257364828670",
+    "created_at": "2026-07-27T10:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081683257364828670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4rUclWUMu",
+          "end": 39,
+          "expanded_url": "https://x.com/Oksana222RC/status/2081683257364828670/photo/1",
+          "media_key": "3_2081683250431639552",
+          "start": 16,
+          "url": "https://t.co/t4rUclWUMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081683257364828670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "反馈一则～感谢信任，旅途愉快🥰 https://t.co/t4rUclWUMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081683250431639552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOf4xTbwAAnaOU.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081683250431639552"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "conversation_id": "2081683257364828670",
+        "created_at": "2026-07-27T10:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081683257364828670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4rUclWUMu",
+              "end": 39,
+              "expanded_url": "https://x.com/Oksana222RC/status/2081683257364828670/photo/1",
+              "media_key": "3_2081683250431639552",
+              "start": 16,
+              "url": "https://t.co/t4rUclWUMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081683257364828670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反馈一则～感谢信任，旅途愉快🥰 https://t.co/t4rUclWUMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "2077359435081769116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 12,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

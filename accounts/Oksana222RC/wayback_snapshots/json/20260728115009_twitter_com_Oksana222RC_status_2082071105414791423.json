@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2082071105414791423",
+    "created_at": "2026-07-28T11:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082071105414791423"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082071105414791423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "口服和鼻吸我的月上之前一定要提前服用昂丹司琼！！这个会有轻微恶心因为是色胺类致幻剂，所以怕吐的一定一定要提前服用昂丹司琼！！！但是肛注不会恶心因为是直接小肠吸收！肛注不用服用昂丹司琼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2082071105414791423",
+        "created_at": "2026-07-28T11:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082071105414791423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082071105414791423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "口服和鼻吸我的月上之前一定要提前服用昂丹司琼！！这个会有轻微恶心因为是色胺类致幻剂，所以怕吐的一定一定要提前服用昂丹司琼！！！但是肛注不会恶心因为是直接小肠吸收！肛注不用服用昂丹司琼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "2077359435081769116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 12,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}
