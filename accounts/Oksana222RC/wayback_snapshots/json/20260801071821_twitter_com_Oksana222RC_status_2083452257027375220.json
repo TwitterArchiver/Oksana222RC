@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2083452257027375220",
+    "created_at": "2026-08-01T07:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083452257027375220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sramirez66171/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/sramirez66171/status/2083442331383177351",
+          "start": 8,
+          "url": "https://t.co/i50XfX2jHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083452257027375220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083442331383177351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特别他妈气人！ https://t.co/i50XfX2jHn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2083452257027375220",
+        "created_at": "2026-08-01T07:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083452257027375220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sramirez66171/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sramirez66171/status/2083442331383177351",
+              "start": 8,
+              "url": "https://t.co/i50XfX2jHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083452257027375220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083442331383177351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别他妈气人！ https://t.co/i50XfX2jHn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730251057316737024",
+        "conversation_id": "2083442331383177351",
+        "created_at": "2026-08-01T06:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083442331383177351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083442331383177351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果只我号被封了我可能会难过，毕竟是我好不容易做起来的千fo账号，可是有千千万万个推友的号都被封了，昨天是他，今天是我，说不定明天就是你，我现在感受到的只有滔天的愤怒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 12,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083441240910205012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 40,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}
