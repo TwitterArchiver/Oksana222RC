@@ -1,7 +1,7 @@
 {
-  "name": "Oksana的神秘实验室",
+  "name": "Oksana的神秘实验室（2.0）",
   "username": "@Oksana222RC",
-  "bio": "逃避追杀于是创立第二人格。 大号：@jinggebiezhuaw",
+  "bio": "逃避追杀于是创立第二人格。 已经死了的上一世大号：@jinggebiezhuaw",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,8 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 32,
-        "start": 17,
+        "end": 40,
+        "start": 25,
         "username": "jinggebiezhuaw"
       }
     ]
