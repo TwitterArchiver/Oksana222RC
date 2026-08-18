@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2084161083552706813",
+    "created_at": "2026-08-03T06:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084161083552706813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rain7x6y/statu…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/rain7x6y/status/2084153176895467529",
+          "start": 144,
+          "url": "https://t.co/91GxJnnaiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084161083552706813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084153176895467529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1.我和小兴是在单身状态下正常开始的关系，不存在任何重叠或插足的情况。这一点我对自己的选择负责。\n2.成年人之间的关系本来就需要边界感。各自的期待不一致，其实是很常见的事情。但事后把这种不对等理解为被欺骗甚至上升到公开指责他人并不合适。\n我不会参与任何人身攻击，也不想把事情变成情绪宣泄 https://t.co/91GxJnnaiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084153125985001472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxmOcvbIAAL7Es.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084153126022733824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxmOc4a4AA0NyH.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084153126039470080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2084161083552706813",
+        "created_at": "2026-08-03T06:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084161083552706813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rain7x6y/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/rain7x6y/status/2084153176895467529",
+              "start": 144,
+              "url": "https://t.co/91GxJnnaiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084161083552706813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084153176895467529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.我和小兴是在单身状态下正常开始的关系，不存在任何重叠或插足的情况。这一点我对自己的选择负责。\n2.成年人之间的关系本来就需要边界感。各自的期待不一致，其实是很常见的事情。但事后把这种不对等理解为被欺骗甚至上升到公开指责他人并不合适。\n我不会参与任何人身攻击，也不想把事情变成情绪宣泄 https://t.co/91GxJnnaiS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084153125985001472",
+            "3_2084153126022733824",
+            "3_2084153126039470080"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "conversation_id": "2084153176895467529",
+        "created_at": "2026-08-03T05:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084153176895467529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZlpCUNsaku",
+              "end": 166,
+              "expanded_url": "https://x.com/Rain7x6y/status/2084153176895467529/photo/1",
+              "media_key": "3_2084153125985001472",
+              "start": 143,
+              "url": "https://t.co/ZlpCUNsaku"
+            },
+            {
+              "display_url": "pic.x.com/ZlpCUNsaku",
+              "end": 166,
+              "expanded_url": "https://x.com/Rain7x6y/status/2084153176895467529/photo/1",
+              "media_key": "3_2084153126022733824",
+              "start": 143,
+              "url": "https://t.co/ZlpCUNsaku"
+            },
+            {
+              "display_url": "pic.x.com/ZlpCUNsaku",
+              "end": 166,
+              "expanded_url": "https://x.com/Rain7x6y/status/2084153176895467529/photo/1",
+              "media_key": "3_2084153126039470080",
+              "start": 143,
+              "url": "https://t.co/ZlpCUNsaku"
+            },
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2064926614115504357",
+              "start": 167,
+              "url": "https://t.co/kY2Xt9Ucqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084153176895467529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064926614115504357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你还几把的艾特上媳妇了。一直当老子是傻逼说着喜欢我爱我然后玩我操我搞我去你妈的吧。\n不是爱无能吗？不是前女友分手之后ptsd吗？😹😹😹你妈的见你第一天就操老子还在我身上刻字操你妈的到头来跟老子说你爱无能不敢确认男女朋友关系😹😹😹你可笑不。老子当时让你主页艾特我怎么不艾特？现在艾特上了 https://t.co/ZlpCUNsaku https://t.co/kY2Xt9Ucqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n已经死了的上一世大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 17,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "喜欢的人@Fach1mo1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "Fach1mo1"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 126,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2086294531918688624",
+    "created_at": "2026-08-09T14:54:41.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086466202487210102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084990480618770432",
+          "start": 0,
+          "username": "yuda3_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086466202487210102",
+    "in_reply_to_user_id": "2084990480618770432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086294531918688624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda3_8964 卧槽我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2086294531918688624",
+        "created_at": "2026-08-09T14:54:41.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086466202487210102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084990480618770432",
+              "start": 0,
+              "username": "yuda3_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086466202487210102",
+        "in_reply_to_user_id": "2084990480618770432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086294531918688624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda3_8964 卧槽我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084990480618770432",
+        "conversation_id": "2086294531918688624",
+        "created_at": "2026-08-09T03:32:32.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086294531918688624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086294531918688624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林他奶的就是吐真剂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "是的我是Oksana💊。\n逃避追杀于是创立第二人格。\n合法非列管手搓美妙物质在售中！\n又炸了的大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/IFUNqxLmpa"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086466202487210102",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926833599380115456/1784115800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 38,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/IFUNqxLmpa",
+        "username": "Oksana222RC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:12:24.000Z",
+        "description": "正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  三代目",
+        "id": "2084990480618770432",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2086399529969139737",
+        "name": "𝖞𝖚𝖉𝖆،梦想挂了🏴‍☠️三代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084990480618770432/1785936237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991632076865537/chE31pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 101,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "yuda3_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

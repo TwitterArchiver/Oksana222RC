@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2085754757218725999",
+    "created_at": "2026-08-08T04:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T05:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085947011094950309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916958202903547904",
+          "start": 0,
+          "username": "JennCorbet15217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085947011094950309",
+    "in_reply_to_user_id": "1916958202903547904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085864543398580731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JennCorbet15217 ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2085754757218725999",
+        "created_at": "2026-08-08T04:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T05:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085947011094950309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916958202903547904",
+              "start": 0,
+              "username": "JennCorbet15217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085947011094950309",
+        "in_reply_to_user_id": "1916958202903547904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085864543398580731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JennCorbet15217 ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916958202903547904",
+        "conversation_id": "2085754757218725999",
+        "created_at": "2026-08-07T23:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085864543398580731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926833599380115456",
+              "start": 0,
+              "username": "Oksana222RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085864543398580731",
+        "in_reply_to_user_id": "1926833599380115456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085754757218725999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana222RC 这个尿检检查不出来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "是的我是Oksana💊。\n逃避追杀于是创立第二人格。\n合法非列管手搓美妙物质在售中！\n又炸了的大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/IFUNqxLmpa"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 28,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/IFUNqxLmpa",
+        "username": "Oksana222RC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T20:50:35.000Z",
+        "description": "卧槽尼玛我就是一个热爱音乐的孩子 非要这样对我吗",
+        "id": "1916958202903547904",
+        "name": "我不想说太多因为我口渴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066238445463515136/wApPIUbL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 58,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "JennCorbet15217",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084288633608241152"
+      ]
+    },
+    "author_id": "1926833599380115456",
+    "conversation_id": "2084288640574947622",
+    "created_at": "2026-08-03T14:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084288640574947622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jmoFHG8ggm",
+          "end": 68,
+          "expanded_url": "https://x.com/Oksana222RC/status/2084288640574947622/photo/1",
+          "media_key": "3_2084288633608241152",
+          "start": 45,
+          "url": "https://t.co/jmoFHG8ggm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084288640574947622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没开玩笑我是真的想死。在你们看来封号可能真的是很小的一件事但我会真的因为这个自杀。。。 https://t.co/jmoFHG8ggm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084288633608241152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzheB-agAAYG2Q.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084288633608241152"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "conversation_id": "2084288640574947622",
+        "created_at": "2026-08-03T14:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084288640574947622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmoFHG8ggm",
+              "end": 68,
+              "expanded_url": "https://x.com/Oksana222RC/status/2084288640574947622/photo/1",
+              "media_key": "3_2084288633608241152",
+              "start": 45,
+              "url": "https://t.co/jmoFHG8ggm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084288640574947622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没开玩笑我是真的想死。在你们看来封号可能真的是很小的一件事但我会真的因为这个自杀。。。 https://t.co/jmoFHG8ggm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n合法非列管手搓美妙物质在售中！\n已经死了的上一世大号：@jinggebiezhuaw\n我不会放弃把大号申诉回来的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/IFUNqxLmpa"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 18,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/IFUNqxLmpa",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

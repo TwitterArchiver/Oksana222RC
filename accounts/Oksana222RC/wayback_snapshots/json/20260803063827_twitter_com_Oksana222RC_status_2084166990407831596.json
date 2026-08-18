@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084166921256353792",
+        "3_2084166921256382464",
+        "3_2084166921260515328",
+        "3_2084166921302478848"
+      ]
+    },
+    "author_id": "1926833599380115456",
+    "conversation_id": "2084166990407831596",
+    "created_at": "2026-08-03T06:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084166990407831596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MExmzUClU",
+          "end": 70,
+          "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+          "media_key": "3_2084166921256353792",
+          "start": 47,
+          "url": "https://t.co/3MExmzUClU"
+        },
+        {
+          "display_url": "pic.x.com/3MExmzUClU",
+          "end": 70,
+          "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+          "media_key": "3_2084166921256382464",
+          "start": 47,
+          "url": "https://t.co/3MExmzUClU"
+        },
+        {
+          "display_url": "pic.x.com/3MExmzUClU",
+          "end": 70,
+          "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+          "media_key": "3_2084166921260515328",
+          "start": 47,
+          "url": "https://t.co/3MExmzUClU"
+        },
+        {
+          "display_url": "pic.x.com/3MExmzUClU",
+          "end": 70,
+          "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+          "media_key": "3_2084166921302478848",
+          "start": 47,
+          "url": "https://t.co/3MExmzUClU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084166990407831596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“我就是无理取闹啊”\n我就是单纯发出来搞他啊”\n\n都不需要自辨了各位，事已至此远离地雷妹吧。 https://t.co/3MExmzUClU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084166921256353792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxyxcIawAA9fgQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084166921256382464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxyxcIbMAA9dh4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084166921260515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084166921302478848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084166921256353792",
+            "3_2084166921256382464",
+            "3_2084166921260515328",
+            "3_2084166921302478848"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "conversation_id": "2084166990407831596",
+        "created_at": "2026-08-03T06:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084166990407831596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MExmzUClU",
+              "end": 70,
+              "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+              "media_key": "3_2084166921256353792",
+              "start": 47,
+              "url": "https://t.co/3MExmzUClU"
+            },
+            {
+              "display_url": "pic.x.com/3MExmzUClU",
+              "end": 70,
+              "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+              "media_key": "3_2084166921256382464",
+              "start": 47,
+              "url": "https://t.co/3MExmzUClU"
+            },
+            {
+              "display_url": "pic.x.com/3MExmzUClU",
+              "end": 70,
+              "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+              "media_key": "3_2084166921260515328",
+              "start": 47,
+              "url": "https://t.co/3MExmzUClU"
+            },
+            {
+              "display_url": "pic.x.com/3MExmzUClU",
+              "end": 70,
+              "expanded_url": "https://x.com/Oksana222RC/status/2084166990407831596/photo/1",
+              "media_key": "3_2084166921302478848",
+              "start": 47,
+              "url": "https://t.co/3MExmzUClU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084166990407831596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我就是无理取闹啊”\n我就是单纯发出来搞他啊”\n\n都不需要自辨了各位，事已至此远离地雷妹吧。 https://t.co/3MExmzUClU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n已经死了的上一世大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 17,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

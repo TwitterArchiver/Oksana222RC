@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1926833599380115456",
+    "conversation_id": "2085349239752909099",
+    "created_at": "2026-08-06T13:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085353718166495238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "ReisuiMirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085353718166495238",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085350688188416468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReisuiMirai msk丧心病狂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2085349239752909099",
+        "created_at": "2026-08-06T13:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085353718166495238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085353718166495238",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085350688188416468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai msk丧心病狂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870078920621731842",
+        "conversation_id": "2085349239752909099",
+        "created_at": "2026-08-06T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085350688188416468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926833599380115456",
+              "start": 0,
+              "username": "Oksana222RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085350688188416468",
+        "in_reply_to_user_id": "1926833599380115456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085349239752909099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana222RC 锁了怎么还"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "是的我是Oksana💊。\n逃避追杀于是创立第二人格。\n合法非列管手搓美妙物质在售中！\n又炸了的大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/IFUNqxLmpa"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 23,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/IFUNqxLmpa",
+        "username": "Oksana222RC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "🚪52 |40歲♂男の娘|Femboy|东方project |MTX |禁慾中 🥺|ABDL嬰兒退行 物化 |私はうつ病と不安障害がありま|",
+        "id": "1870078920621731842",
+        "name": "捉鬼人",
+        "pinned_tweet_id": "2004115724995121256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009387120205410304/kpryvh8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 161,
+          "like_count": 23679,
+          "listed_count": 10,
+          "media_count": 378,
+          "tweet_count": 3676
+        },
+        "url": "",
+        "username": "ReisuiMirai",
+        "verified": false
+      }
+    ]
+  }
+}
