@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-18T14:39:08",
+  "last_updated": "2026-09-10T17:39:28",
   "html": {
     "https://web.archive.org/web/20260719124758if_/https://twitter.com/Oksana222RC/status/2078824165944266753": {
       "status": "done",
@@ -248,76 +248,76 @@
       "last_updated": "2026-08-01T17:18:25"
     },
     "https://pbs.twimg.com/media/HOxmOcvbIAAL7Es.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json"
       ],
-      "last_updated": "2026-08-18T14:38:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803061458im_/https://pbs.twimg.com/media/HOxmOcvbIAAL7Es.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa00781bb30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:06",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803061458/https://pbs.twimg.com/media/HOxmOcvbIAAL7Es.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOxmOc4a4AA0NyH.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json"
       ],
-      "last_updated": "2026-08-18T14:38:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803061458im_/https://pbs.twimg.com/media/HOxmOc4a4AA0NyH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa007839970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:10",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803061458/https://pbs.twimg.com/media/HOxmOc4a4AA0NyH.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json"
       ],
-      "last_updated": "2026-08-18T14:38:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803061458im_/https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa00783a2a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803061458/https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8de401b410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxyxcIawAA9fgQ.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-08-18T14:38:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827im_/https://pbs.twimg.com/media/HOxyxcIawAA9fgQ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa0078390a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:07",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803063827/https://pbs.twimg.com/media/HOxyxcIawAA9fgQ.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOxyxcIbMAA9dh4.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-08-18T14:38:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827im_/https://pbs.twimg.com/media/HOxyxcIbMAA9dh4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa007819340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803063827/https://pbs.twimg.com/media/HOxyxcIbMAA9dh4.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-08-18T14:38:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827im_/https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa00611ade0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827/https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8de401a1b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-08-18T14:38:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827im_/https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa00611ac90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827/https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8de40392b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803081012_twitter_com_Oksana222RC_status_2084190081812979919.json"
       ],
-      "last_updated": "2026-08-18T14:38:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803081012im_/https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa00611a7b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:06",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803081012/https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOyQYFqawAE-CbK.jpg": {
       "status": "done",
@@ -348,13 +348,13 @@
       "last_updated": "2026-08-18T14:37:36"
     },
     "https://pbs.twimg.com/media/HOzheB-agAAYG2Q.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803144150_twitter_com_Oksana222RC_status_2084288640574947622.json"
       ],
-      "last_updated": "2026-08-18T14:38:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803144150im_/https://pbs.twimg.com/media/HOzheB-agAAYG2Q.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa00614df70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:07",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803144150/https://pbs.twimg.com/media/HOzheB-agAAYG2Q.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HO0jzk7a0AAhvlD.jpg": {
       "status": "done",
@@ -866,7 +866,8 @@
           "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-18T14:39:08"
+      "last_updated": "2026-09-10T17:39:13",
+      "miss_count": 1
     },
     "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json": {
       "status": "failed",
@@ -882,11 +883,11 @@
           "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-18T14:38:56",
-      "miss_count": 2
+      "last_updated": "2026-09-10T17:39:17",
+      "miss_count": 3
     },
     "20260803081012_twitter_com_Oksana222RC_status_2084190081812979919.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg"
@@ -897,7 +898,7 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-18T14:39:08"
+      "last_updated": "2026-09-10T17:39:06"
     },
     "20260803084733_twitter_com_Oksana222RC_status_2084199480648507656.json": {
       "status": "done",
@@ -964,7 +965,7 @@
       "last_updated": "2026-08-18T14:39:08"
     },
     "20260803144150_twitter_com_Oksana222RC_status_2084288640574947622.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOzheB-agAAYG2Q.jpg"
@@ -974,7 +975,7 @@
           "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-18T14:38:56",
+      "last_updated": "2026-09-10T17:39:07",
       "miss_count": 2
     },
     "20260803153703_twitter_com_Oksana222RC_status_2084302533267493343.json": {
