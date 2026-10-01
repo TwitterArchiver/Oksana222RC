@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-10T17:39:52",
+  "last_updated": "2026-10-01T19:31:18",
   "html": {
     "https://web.archive.org/web/20260719124758if_/https://twitter.com/Oksana222RC/status/2078824165944266753": {
       "status": "done",
@@ -252,63 +252,63 @@
       "referenced_by": [
         "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json"
       ],
-      "last_updated": "2026-09-10T17:39:06",
+      "last_updated": "2026-10-01T19:31:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803061458/https://pbs.twimg.com/media/HOxmOcvbIAAL7Es.jpg",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxmOc4a4AA0NyH.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json"
       ],
-      "last_updated": "2026-09-10T17:39:10",
+      "last_updated": "2026-10-01T19:31:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803061458/https://pbs.twimg.com/media/HOxmOc4a4AA0NyH.jpg",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json"
       ],
-      "last_updated": "2026-09-10T17:39:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803061458/https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8de401b410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-01T19:31:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803061458/https://pbs.twimg.com/media/HOxmOc8aQAAOBkm.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HOxyxcIawAA9fgQ.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-09-10T17:39:07",
+      "last_updated": "2026-10-01T19:31:05",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803063827/https://pbs.twimg.com/media/HOxyxcIawAA9fgQ.jpg",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxyxcIbMAA9dh4.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-09-10T17:39:09",
+      "last_updated": "2026-10-01T19:31:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803063827/https://pbs.twimg.com/media/HOxyxcIbMAA9dh4.jpg",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-09-10T17:39:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827/https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8de401a1b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-01T19:31:11",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803063827/https://pbs.twimg.com/media/HOxyxcJaQAAv3IP.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json"
       ],
-      "last_updated": "2026-09-10T17:39:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827/https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8de40392b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-01T19:31:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803063827/https://pbs.twimg.com/media/HOxyxcTakAAEZIm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fda26e0ac60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg": {
       "status": "failed_all",
@@ -853,7 +853,7 @@
       "last_updated": "2026-08-18T14:37:36"
     },
     "20260803061458_twitter_com_Oksana222RC_status_2084161083552706813.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOxmOcvbIAAL7Es.jpg",
@@ -866,7 +866,7 @@
           "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-10T17:39:40",
+      "last_updated": "2026-10-01T19:31:09",
       "miss_count": 2
     },
     "20260803063827_twitter_com_Oksana222RC_status_2084166990407831596.json": {
@@ -883,8 +883,8 @@
           "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-10T17:39:40",
-      "miss_count": 4
+      "last_updated": "2026-10-01T19:31:15",
+      "miss_count": 5
     },
     "20260803081012_twitter_com_Oksana222RC_status_2084190081812979919.json": {
       "status": "done",
